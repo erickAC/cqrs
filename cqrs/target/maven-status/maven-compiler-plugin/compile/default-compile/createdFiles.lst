@@ -1,0 +1,7 @@
+br/cqrs/cqrs/config/CommandDataSourceConfig.class
+br/cqrs/cqrs/query/repository/package-info.class
+br/cqrs/cqrs/command/entity/package-info.class
+br/cqrs/cqrs/query/entity/package-info.class
+br/cqrs/cqrs/CqrsApplication.class
+br/cqrs/cqrs/config/QueryDataSourceConfig.class
+br/cqrs/cqrs/command/repository/package-info.class
